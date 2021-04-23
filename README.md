@@ -2,5 +2,4 @@
 Algorithm for crypto trading. Early stage.
 
 **Features:**
-- Gas price tracking
-- More to come
+- Ethereum gas price tracking
